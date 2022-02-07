@@ -1,0 +1,59 @@
+﻿body {
+    color: red;
+    background-color: darkslategrey;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(48,92,69,1) 100%);
+}
+.topbar {
+    background-color: darkslategray;
+    overflow: hidden;
+    <!--position: fixed;
+    top: 0px; -->
+}
+
+.topbar a {
+    float: left;
+    color: palegoldenrod;
+    text-align: center;
+    padding: 20px 50px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.topbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.topbar a.active {
+    background-color: darkslategrey;
+    color: white;
+    left: 100px;
+}
+.headings {
+    text-align: center;
+    width: 100%;
+    font-size: 48px;
+    font-family: Dubai;
+    padding: 20px;
+    color: palegoldenrod;
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#grammy
+{
+    height:25%;
+    width:25%;
+}
+.paragraph
+{
+    text-align:center;
+    width:100%;
+    font-size:24px;
+    font-family:Dubai;
+    padding:8px;
+    color:palegoldenrod;
+}
