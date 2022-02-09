@@ -8,21 +8,11 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width: 60px;
-}
-
-.topbar li a {
-  display: block;
-}
-
-.topbar a:hover {
-    background-color: #ddd;
-    color: black;
-}
-.topbar a.active {
-    background-color: darkslategrey;
-    color: white;
-    left: 100px;
+  width: 25%;
+  background-color: #f1f1f1;
+  height: 100%; /* Full height */
+  position: fixed; /* Make it stick, even on scroll */
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
 .headings {
     text-align: center;
