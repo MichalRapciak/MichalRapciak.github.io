@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="https://michalrapciak.github.io/hci/usability_assessment">
+<head>
+    <meta charset="utf-8" />
+    <title>Evaluation of Google Maps</title>
+    <link rel="stylesheet" type="text/css" href="StyleSheet1.css" />
+</head>
+<body>
+    <div class="topbar">
+        <a href="michalrapciak.github.io/hci">Home</a>
+        <a class="active" href="https://michalrapciak.github.io/hci/usability_assessment">Usability Assessment</a>
+        <a href="https://michalrapciak.github.io/hci/usability_test">Usability Test</a>
+        <a href="https://michalrapciak.github.io/hci/prototypes">Prototypes</a>
+        <a href="https://michalrapciak.github.io/hci/access_audit">Accessibility Audit</a>
+        <a href="https://michalrapciak.github.io/hci/conclusion">Conclusion</a>
+    </div>
+    <h1 id="home" class="headings">USABILITY ASSESSMENT</h1>
+    <h2 class="headings" id="about">7 Usability Heuristics</h2>
+    <img src="https://i.insider.com/5c61d09b74c5876c6042c533?width=700" />
+    <h2 class="headings" id="about">1 - Visibility Of System Status</h2>
+    <p class="paragraph">
+        In order to get somewhere or do something, you must understand what is going on now. </br>
+        This is especially important for maps, as you need to know where you need to go next from your current location. </br>
+        This is where visibility of system status comes in - you need to actively tell the user where they are. </br>
+        Google maps does this well by showing where the user is currently, the direction they are facing, and how they have to keep going. </br>
+        This can be improved on though, as google often has information of streets being full of traffic or services being down. </br>
+        Google Maps could use this and warn the user in advance if the place they want to go to is closed, </br>
+        or if the road they will be driving on has lots of traffic. </br>
+    </p>
+    <img src="https://www.techetron.com/wp-content/uploads/2017/11/IMG_8309.png" id="pic" />
+</body>
+</html>
